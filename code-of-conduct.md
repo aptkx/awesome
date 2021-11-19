@@ -1,5 +1,6 @@
 # graphics
 [Jean-MarcThiery](https://perso.telecom-paristech.fr/jthiery/)
+
 [Joshua A. Levine](https://jalevine.bitbucket.io/pubs/)
 
 
