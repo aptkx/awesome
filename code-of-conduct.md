@@ -12,3 +12,10 @@
 # course
 * [shape-modeling-18](http://crl.ethz.ch/teaching/shape-modeling-18/)
 * [cs468-01-fall](https://graphics.stanford.edu/courses/cs468-01-fall/)
+
+
+
+
+
+# papers:
+* [A Halfedge Refinement Rule for Parallel Catmull-Clark Subdivision](http://onrendering.com/)
