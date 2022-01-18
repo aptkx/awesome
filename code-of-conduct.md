@@ -3,6 +3,7 @@
 * [Joshua A. Levine](https://jalevine.bitbucket.io/pubs/)
 * [Christopher Batty](https://cs.uwaterloo.ca/~c2batty/)
 * [Jonathan Dupuy](http://onrendering.com/)
+* [西田　友是  （にした　ともゆき）](http://nishitalab.org/user/nis/)
 
 
 # ddg
