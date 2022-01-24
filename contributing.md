@@ -19,7 +19,7 @@
 * [design-and-manufacturing-ii-spring-2004 mit ocw](https://ocw.mit.edu/courses/mechanical-engineering/2-008-design-and-manufacturing-ii-spring-2004/lecture-notes/)
 * [FOUNDATIONS OF COMPUTER GRAPHICS cs184](https://people.eecs.berkeley.edu/~sequin/CS184/index.html)
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
-
+* [MEM 201-601: Fundamentals of Computer-Aided Design](http://www.pages.drexel.edu/~rcc34/Files/Teaching/Teaching%20Website.htm)
 
 
 # cagd book
@@ -35,7 +35,7 @@
 * [The generalized inverse matrix and the surface-surface intersection problem](https://link.springer.com/chapter/10.1007/978-3-642-61542-9_11)
 * [Modeling of Curves and Surfaces in CAD/CAM](https://books.google.com/books?id=bWurCAAAQBAJ&pg=PA344&lpg=PA344&dq=Methods+used+for+intersection+geometrical+entities+in+the+GPM+module+for+volume+geometry&source=bl&ots=kLvd_aq07y&sig=ACfU3U08vBvU_mgv91iTR7Yy32Q_UZGNbA&hl=en&sa=X&ved=2ahUKEwjQs_6m-7z1AhV3JzQIHVuwCrIQ6AF6BAgaEAM#v=onepage&q=Methods%20used%20for%20intersection%20geometrical%20entities%20in%20the%20GPM%20module%20for%20volume%20geometry&f=false)
 * [The Synthesis of Solids Bounded by Many Faces](https://dl.acm.org/doi/10.1145/360715.360727)
-* []
+* [ssI purdue](https://www.cs.purdue.edu/homes/cmh/distribution/books/chap6.pdf)
 
 # commercial
 * [unity pixyz](https://unity.com/products/pixyz)
