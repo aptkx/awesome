@@ -58,6 +58,13 @@
 
 # code
 * [LongestEdgeBisection2D](https://github.com/jdupuy/LongestEdgeBisection2D)
-* 
+
+
+
+# cpp
+* [c-from-algorithms-to-coroutines-in-c](https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/october/c-from-algorithms-to-coroutines-in-c)
+* [A library of C++ coroutine abstractions for the coroutines TS](https://github.com/lewissbaker/cppcoro)
+* [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
+
 
 
