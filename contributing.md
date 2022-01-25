@@ -20,6 +20,7 @@
 * [FOUNDATIONS OF COMPUTER GRAPHICS cs184](https://people.eecs.berkeley.edu/~sequin/CS184/index.html)
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [MEM 201-601: Fundamentals of Computer-Aided Design](http://www.pages.drexel.edu/~rcc34/Files/Teaching/Teaching%20Website.htm)
+* [SurfLab/solid-modeling-course](https://www.cise.ufl.edu/research/SurfLab/solid-modeling-course/lectures.md#1)
 
 
 # cagd book
@@ -40,7 +41,7 @@
 # commercial
 * [unity pixyz](https://unity.com/products/pixyz)
 * [Intersections & Cross Sections NX](https://docs.plm.automation.siemens.com/data_services/resources/nx/12/nx_api/custom/en_US/grip/pt_curve/ptc_genconic_intsec.html)
-
+* [bentley](https://docs.bentley.com/LiveContent/web/ProStructures%20Help-v6/en/GUID-C0ACC166-A9C2-417B-F680-1E7B99400787.html)
 
 # public
 * [DynaShape](https://github.com/LongNguyenP/DynaShape)
