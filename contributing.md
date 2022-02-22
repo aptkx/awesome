@@ -67,4 +67,11 @@
 * [My tutorial and take on C++20 coroutines](https://www.scs.stanford.edu/~dm/blog/c++-coroutines.html)
 
 
+# linear programming
+* [Integer Programming ISE 418](https://coral.ise.lehigh.edu/~ted/files/ie418/lectures/Lecture3.pdf)
+* [mit Integer Programming and Combinatorial Optimization ](https://ocw.mit.edu/courses/sloan-school-of-management/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/lecture-notes/)
+* [Linear and Integer Programming (CPS 296.1), Fall 2010](https://courses.cs.duke.edu/fall10/cps296.1/)
+* [Convex Optimization: Fall 2016](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)
+* [](http://karthik.ise.illinois.edu/courses/ie511/ie511-sp-19.html)
+* [](https://imada.sdu.dk/~marco/Teaching/AY2014-2015/DM554/)
 
