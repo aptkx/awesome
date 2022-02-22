@@ -72,6 +72,6 @@
 * [mit Integer Programming and Combinatorial Optimization ](https://ocw.mit.edu/courses/sloan-school-of-management/15-083j-integer-programming-and-combinatorial-optimization-fall-2009/lecture-notes/)
 * [Linear and Integer Programming (CPS 296.1), Fall 2010](https://courses.cs.duke.edu/fall10/cps296.1/)
 * [Convex Optimization: Fall 2016](https://www.stat.cmu.edu/~ryantibs/convexopt-F16/)
-* [](http://karthik.ise.illinois.edu/courses/ie511/ie511-sp-19.html)
-* [](https://imada.sdu.dk/~marco/Teaching/AY2014-2015/DM554/)
+* [http://karthik.ise.illinois.edu/courses/ie511/ie511-sp-19.html](http://karthik.ise.illinois.edu/courses/ie511/ie511-sp-19.html)
+* [DM554/DM545 – Linear and Integer Programming](https://imada.sdu.dk/~marco/Teaching/AY2014-2015/DM554/)
 
