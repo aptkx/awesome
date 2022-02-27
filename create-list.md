@@ -1,6 +1,5 @@
-# Creating Your Own List
-
-- pako.js
+# qml debug
+qmlscene.exe xxx.qml
 
 
 
