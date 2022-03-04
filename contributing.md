@@ -21,6 +21,10 @@
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
 * [MEM 201-601: Fundamentals of Computer-Aided Design](http://www.pages.drexel.edu/~rcc34/Files/Teaching/Teaching%20Website.htm)
 * [SurfLab/solid-modeling-course](https://www.cise.ufl.edu/research/SurfLab/solid-modeling-course/lectures.md#1)
+* [CIS 565: GPU Programming and Architecture](https://cis565-fall-2017.github.io/)
+* [CS 450 / 550 -- Introduction to Computer Graphics](https://web.engr.oregonstate.edu/~mjb/cs450/)
+* [even Things for January 22, 2022](https://www.realtimerendering.com/blog/seven-things-for-january-22-2022/)
+* []
 
 
 # cagd book
@@ -42,6 +46,7 @@
 * [unity pixyz](https://unity.com/products/pixyz)
 * [Intersections & Cross Sections NX](https://docs.plm.automation.siemens.com/data_services/resources/nx/12/nx_api/custom/en_US/grip/pt_curve/ptc_genconic_intsec.html)
 * [bentley](https://docs.bentley.com/LiveContent/web/ProStructures%20Help-v6/en/GUID-C0ACC166-A9C2-417B-F680-1E7B99400787.html)
+* [visioglobe indoor mapping](https://visioglobe.com/)
 
 # public
 * [DynaShape](https://github.com/LongNguyenP/DynaShape)
